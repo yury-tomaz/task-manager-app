@@ -27,4 +27,4 @@ Para executar o projeto, é necessário ter o Node.js e o MongoDB instalados em 
 5. Acesse o aplicativo em http://localhost:3000
 
 ## Autor
-[Yury](https://github.com/yury)
+[Yury Tomaz](https://github.com/dev-off)
