@@ -1,4 +1,2 @@
-# basic gitignore for node.js
-
 node_modules
 .DS_Store
